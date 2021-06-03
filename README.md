@@ -1,1 +1,1 @@
-# plato-stanford-stats
+# Stanford Encyclopedia of Philosophy : Statistics
